@@ -1,6 +1,5 @@
 
 I.  Giới thiệu Git:
-    https://blog.duyetdev.com/2015/04/git-va-cac-khai-niem-co-ban.html#.VyM70PmLTDc
     * Tóm tắt:
       - Git dùng để quản lý phiên bản code, rất thuận lợi trong làm việc nhóm thậm chí làm 1 mình.
         Git có nhiều trang hỗ trợ như: github.com, bitbucket.com, ... không phải git là chỉ riêng trang github, git giống như là 1 chuẩn
@@ -30,12 +29,11 @@ I.  Giới thiệu Git:
           PUSH: cũng trên bash, gõ: git push origin master
         + Khi ai đó push gì mới lên thì ở máy lấy về bằng cái: gõ trên bash tại thư mục đã khởi tạo git (git init): git pull origin master
         + Hết, luyện tập bằng cách tạo 1 repo trống trên github cá nhân.
-
-
-git clone + repository của bạn => tạo ra thư mục trên máy của bạn
-exit
-copy source vào thư mục vừa tạo
-git add.
-git commit -m "first commit"
-git push => nhập user + pass github
-done => kiểm tra xem source đã lên chưa
+* lệnh up code cơ bản
++git clone + repository của bạn => tạo ra thư mục trên máy của bạn
++exit
++copy source vào thư mục vừa tạo
++git add.
++git commit -m "first commit"
++git push => nhập user + pass github
++done => kiểm tra xem source đã lên chưa
