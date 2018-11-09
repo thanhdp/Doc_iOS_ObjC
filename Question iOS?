@@ -1,0 +1,97 @@
+
+Các câu hỏi về iOS – Objective C
+Khác nhau giữa self & dấu gạch dưới (e.g: self.name & _name)?
+
+Property là gì?
+
+Khác nhau giữa thuộc tính weak & strong?
+
+Retain Cycle là gì? Làm sao để tránh nó?
+
+Thuộc tính copy là gì khi khai báo một property?
+
+Synthesize là gì? Sử dụng khi nào?
+
+Category là gì?
+
+Extension là gì?
+
+Làm sao để thêm một property trong một category?
+
+Method swizzling là gì? Nên sử dụng khi nào?
+
+Làm sao để layout các subview trong một view?
+
+Size classes là gì?
+
+Automatic Reference Counting (ARC) là gì?
+
+@autorelease là gì? Sử dụng khi nào?
+
+Làm sao để animate 1 view với constraint?
+
+Core Data là gì?
+
+Core Data stack là gì?
+
+Managed Object Context là gì?
+
+Multithreading với Core Data?
+
+Làm sao để truyền manage object giữa các thread?
+
+Làm sao để merge change giữa các Managed Object Context
+
+Khác nhau giữa frame và bounds
+
+Dispatch_once dùng để làm gì?
+
+Delegate là gì?
+
+Làm sao để xử lý đa luồng (multithreading) trong iOS?
+
+Khi nào nên sử dụng NSOperation và khi nào nên sử dụng Grand Central Dispatch?
+
+Tác dụng của alloc là gì?
+
+Làm sao để tạo một Class trong Objective-C mà không kế thừa từ NSObject?
+
+Vòng đời ứng dụng, các trạng thái của ứng dụng?
+
+Làm sao để thực hiện một vài câu lệnh khi app đang ở chế độ background?
+
+Làm sao để đợi một thread kết thúc trước khi bắt đầu một thread khác?
+
+Làm sao để lưu trữ thông tin bảo mật của người dùng (username, password, token…)
+
+Lập trình hướng đối tượng (OOP) và Design Pattern
+OOP là gì?
+
+Ưu điểm và nhược điểm của Tính kế thừa?
+
+Tính đa hình là gì?
+
+Tight Coupling (liên kết chặt chẽ) là gì?
+
+Design Pattern là gì? Ưu điểm của nó?
+
+Các Design Pattern quan trọng trong iOS?
+
+Sigleton là gì?
+
+Những thử thách bạn gặp phải khi implement MVC?
+
+MVVM là gì? Tại sao sử dụng nó?
+
+Dependency Injection là gì? Ưu điểm?
+
+Câu hỏi về Testing
+Bạn viết unit test chưa? Bạn viết nó như thế nào trong iOS
+
+Test-Driven Development (TDD) là gì?
+
+Ưu điểm của TDD? Nó giải quyết những vấn đề gì?
+
+Mocking là gì? Sử dụng khi nào?
+
+UI testing là gì?
