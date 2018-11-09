@@ -22,5 +22,8 @@ Tìm hiểu thêm cho dev iOS
 + 33 awesome GitHub lists for iOS development
 https://medium.com/flawless-app-stories/33-awesome-github-lists-for-ios-development-336691520d0f
 
-+ beginning storyboards in iOS 7
++ Beginning storyboards in iOS 7
 https://www.raywenderlich.com/2624-storyboards-tutorial-in-ios-7-part-1
+
++ Create icon
+https://makeappicon.com/
