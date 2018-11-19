@@ -33,3 +33,36 @@ https://medium.com/app-coder-io/10-steps-to-become-a-professional-ios-developer-
 
 + swift
 https://www.appcoda.com/ios-programming-course/
+
++ Check List
+1.	Create and use collections(NSArray, NSSet, NSDictionary, etc)
+2.	Understand the different between mutable and immutable and how that applies to collections.
+3.	Develop and use simple functions
+4.	Cast objects safely from one type to another
+5.	Work effectively with properties
+6.	Develop and use functions with external parameter names
+7.	Create blocks and use them effectively
+8.	Create and use custom model objects
+
+1.	Objective - C
+·	Type data
+·	Variable, constant
+·	Flow control, loop
+·	Collections
+·	Function
+·	Class
+·	Properties
+·	Block
+·	Custom model objects
+·	Create object
+·	Protocol
+·	Categories
+·	Enum
+·	Structs
+2.	iOS
+·	Use xCode to create new project
+·	Interface Builder
+·	App life cycle
+·	View Controller, Navigation Controller
+·	Auto Layout
+·	Delegation Pattern
