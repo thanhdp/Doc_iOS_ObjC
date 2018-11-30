@@ -33,6 +33,8 @@ https://medium.com/app-coder-io/10-steps-to-become-a-professional-ios-developer-
 
 + swift
 https://www.appcoda.com/ios-programming-course/
++ Desigining 
+http://mathewsanders.com/
 
 + Check List
 1.	Create and use collections(NSArray, NSSet, NSDictionary, etc)
